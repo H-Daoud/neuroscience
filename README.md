@@ -1,5 +1,5 @@
-# neuroscience
-# Abnormality detection and monitoring  in vascular networks using mobile nanosensors project:
+# _neuroscience_project
+# Title: Abnormality detection and monitoring  in vascular networks using mobile nanosensors project:
 Nanobot Localization Using Machine Learning Techniques Overview This repository contains the code, datasets, and documentation for the research project titled "Abnormality Detection and Monitoring in Vascular Networks Using Mobile Nanosensors". The project explores advanced machine learning techniques to improve the accuracy of nanobot localization within human vascular networks. The goal is to enhance precision in detecting abnormalities for targeted medical interventions.
 
 **Key Features**
