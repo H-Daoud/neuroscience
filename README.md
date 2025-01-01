@@ -21,26 +21,6 @@ Data Collection and Preprocessing: Cleaning and normalizing high-dimensional dat
 Machine Learning Analysis: Integration of Random Forest and K-Means to evaluate abnormalities.
 Result Validation: Rigorous testing using performance metrics.
 
-
-# Repository Structure
-
-📂 BE-Enterprises-Twitter-Analysis
-├── data/
-│   ├── BVS_training_data.mat       # Preprocessed dataset from prior research
-│   ├── class0.png                  # Visualization of normal cases
-│   ├── class1.png                  # Visualization of abnormal cases
-├── notebooks/
-│   ├── ATU_Msc_Dissertation_v12.ipynb  # Jupyter notebook with analysis and results
-├── diagrams/
-│   ├── Arch-Diagramm.drawio.png    # Architecture diagram
-├── results/
-│   ├── evaluation_metrics.csv      # Performance metrics for models
-├── src/
-│   ├── preprocessing.py            # Scripts for data preprocessing //ATU_Msc_Dissertation_v12.ipynb//
-│   ├── random_forest_model.py      # Random Forest implementation //ATU_Msc_Dissertation_v12.ipynb//
-│   ├── kmeans_model.py             # K-Means implementation //ATU_Msc_Dissertation_v12.ipynb//
-├── README.md                       # Project overview and instructions
-
 # Usage
 **1-Code copy:**
 Clone the repository:
