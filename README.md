@@ -23,7 +23,8 @@ Result Validation: Rigorous testing using performance metrics.
 
 
 # Repository Structure
-Code kopieren
+
+📂 BE-Enterprises-Twitter-Analysis
 ├── data/
 │   ├── BVS_training_data.mat       # Preprocessed dataset from prior research
 │   ├── class0.png                  # Visualization of normal cases
