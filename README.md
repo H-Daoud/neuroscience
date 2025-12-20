@@ -30,7 +30,7 @@ git clone https://github.com/your_username/nanobot-localization.git
 pip install -r requirements.txt
 
 **3- Run the Jupyter notebook:**
-jupyter notebook notebooks/ATU_Msc_Dissertation_v12.ipynb
+jupyter notebook.ipynb
 
 
 # Key Results
