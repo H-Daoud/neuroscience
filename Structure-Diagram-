@@ -3,13 +3,13 @@
 │   ├── class0.png                  # Visualization of normal cases
 │   ├── class1.png                  # Visualization of abnormal cases
 ├── notebooks/
-│   ├── ATU_Msc_Dissertation_v12.ipynb  # Jupyter notebook with analysis and results
+│   ├── Notebook_test.ipynb  # Jupyter notebook with analysis and results
 ├── diagrams/
 │   ├── Arch-Diagramm.drawio.png    # Architecture diagram
 ├── results/
 │   ├── evaluation_metrics.csv      # Performance metrics for models
-├── src/ ATU_Msc_Dissertation_v12.ipynb
-│   ├── preprocessing.py            # Scripts for data preprocessing //ATU_Msc_Dissertation_v12.ipynb//
-│   ├── random_forest_model.py      # Random Forest implementation //ATU_Msc_Dissertation_v12.ipynb//
-│   ├── kmeans_model.py             # K-Means implementation //ATU_Msc_Dissertation_v12.ipynb//
+├── src/ Notebook_dev.ipynb
+│   ├── preprocessing.py            # Scripts for data preprocessing 
+│   ├── random_forest_model.py      # Random Forest implementation 
+│   ├── kmeans_model.py             # K-Means implementation
 ├── README.md                       # Project overview and instructions
